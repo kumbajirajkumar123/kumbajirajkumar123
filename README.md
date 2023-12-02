@@ -17,18 +17,20 @@ const MySkillSet = {
 ```
 
 
-<div style="display: flex;  align-items: center;">
+<div style="display: flex; ">
 
  ![RajKumbaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumbajirajkumar123&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&hide_progress=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
