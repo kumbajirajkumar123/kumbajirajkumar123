@@ -14,9 +14,16 @@
 - 🌱 I’m currently learning NodeJS & PostgreSQL
 - 📫 How to reach me: rajkumbaji4@gmail.com
 
-<details close>
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=kumbajirajkumar123" width="600" /></a>
 
+
+<details close>
+  <table>
+  <tr>
+    <td>
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=kumbajirajkumar123" width="600" /></a>
+    </td>
+  </tr>
+  </table>
 </details>
 
 <h2> 🚀 &nbsp;Skills & Expertise</h2>
@@ -34,13 +41,6 @@ const MySkillSet = {
 
 
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-
-  ![RajKumbaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumbajirajkumar123&show_icons=true&theme=radical)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&size_weight=0.5&count_weight=0.5)
-
-</div>
 
 <table>
   <tr>
