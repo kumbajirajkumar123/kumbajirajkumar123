@@ -7,10 +7,7 @@
 <p align="left"><strong><samp>「</samp></strong></p>
 <p align="center">
   <samp>
-
   <a href="https://www.linkedin.com/in/raj-kumar-kumbaji-03115516b" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DEF72C&random=false&center=true&width=1000&lines=A+Frontend+Developer+and+Open-Source+enthusiast!" alt="Typing SVG" /></a>
-    
-
   </samp>
   <br>
 </p>
