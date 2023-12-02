@@ -3,7 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%27m%20Raj%20Kumbaji&fontSize=90)
 
 ```yaml
-lasfjdldlf arajjkkumara
+const MySkillSet = {
+  tools: ["ReactJS", "TailwindCSS", "MaterialUI", "Redux", "NodeJS"],
+  languages: ["Javascript", "HTML", "CSS", "Python"],
+  teamTools: ["Github", "Discord", "Trello"],
+}
 ```
 
 <!--
