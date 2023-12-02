@@ -6,7 +6,7 @@
 <p align="center">
   <samp>
     
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&center=true&vCenter=true&random=true&width=435&lines=I+`m+a+Frontend+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&center=true&vCenter=true&random=true&width=435&lines=I`m+a+Frontend+Developer+and+Open-Source+enthusiast!">
 
     
      
