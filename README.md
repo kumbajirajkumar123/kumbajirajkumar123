@@ -2,26 +2,26 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%27m%20Raj%20Kumbaji&fontSize=90)
 
-<details open>
-  <summary>📊GitHub Stats</summary>
 
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=kumbajirajkumar123" width="600" /></a>
-  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=kumbajirajkumar123" width="720" /></a>
-
-</details>
 
 <p align="left"><strong><samp>「</samp></strong></p>
 <p align="center">
   <samp>
+
+  <a href="https://www.linkedin.com/in/raj-kumar-kumbaji-03115516b" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DEF72C&random=false&center=true&width=1000&lines=A+Frontend+Developer+and+Open-Source+enthusiast!" alt="Typing SVG" /></a>
     
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&center=true&vCenter=true&random=true&width=435&lines=I'+m+a+Frontend+Developer+and+Open-Source+enthusiast!+">
 
-    
-     
   </samp>
   <br>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
+
+<details open>
+
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=kumbajirajkumar123" width="600" /></a>
+
+</details>
 
 <h2> 🚀 &nbsp;Skills & Expertise</h2>
 
