@@ -4,8 +4,8 @@
 
 ```yaml
 const MySkillSet = {
-  tools: [
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="45" height="45" />
+  tools: [`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="45" height="45" />`
 , "NextJS", "TailwindCSS", "MaterialUI","Redux-toolkit", "Redux", "NodeJS"],
   languages: ["Javascript", "HTML", "CSS", "Java"],
   teamTools: ["Github", "Discord", "Jira"],
