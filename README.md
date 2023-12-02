@@ -21,19 +21,14 @@ const MySkillSet = {
 
  ![RajKumbaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumbajirajkumar123&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 
 
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Snake animation](https://github.com/kumbajirajkumar123/kumbajirajkumar123/blob/output/github-contribution-grid-snake.svg)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kumbajirajkumar123/kumbajirajkumar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
