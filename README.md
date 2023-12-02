@@ -21,6 +21,10 @@ const MySkillSet = {
 ![RajKumbaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumbajirajkumar123&show_icons=true&theme=radical)
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&hide_progress=true)
+
+
 <!--
 **kumbajirajkumar123/kumbajirajkumar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
