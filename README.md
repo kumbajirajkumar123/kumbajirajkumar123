@@ -12,10 +12,10 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 
-
+<details close>
   <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=kumbajirajkumar123" width="600" /></a>
 
-
+</details>
 
 <h2> 🚀 &nbsp;Skills & Expertise</h2>
 
