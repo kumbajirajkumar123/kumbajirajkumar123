@@ -4,12 +4,15 @@
 
 ```yaml
 const MySkillSet = {
-  tools: ["ReactJS", "NextJS", "TailwindCSS", "MaterialUI","Redux-toolkit", "Redux", "NodeJS"],
+  tools: {
+    frontend: ["ReactJS", "NextJS", "TailwindCSS", "MaterialUI", "Redux-toolkit", "Redux"],
+    backend: ["NodeJS"],
+    collaboration: ["Github", "Discord", "Jira"],
+  },
   languages: ["Javascript", "HTML", "CSS", "Java"],
-  teamTools: ["Github", "Discord", "Jira"],
-}
+};
+
 ```
-a
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
