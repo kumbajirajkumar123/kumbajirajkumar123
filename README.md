@@ -17,12 +17,9 @@ const MySkillSet = {
 ```
 
 
-<div style=display:"flex">
+<div style="display: flex; flex-direction: column; align-items: center;">
 
- 
-![RajKumbaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumbajirajkumar123&show_icons=true&theme=radical)
-
-
+ ![RajKumbaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumbajirajkumar123&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&hide_progress=true)
 
@@ -31,6 +28,7 @@ const MySkillSet = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 
 
 
