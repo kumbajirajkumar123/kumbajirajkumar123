@@ -2,6 +2,14 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%27m%20Raj%20Kumbaji&fontSize=90)
 
+<details open>
+  <summary>📊GitHub Stats</summary>
+
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=kumbajirajkumar123" width="600" /></a>
+  <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-trophies?login=kumbajirajkumar123" width="720" /></a>
+
+</details>
+
 <p align="left"><strong><samp>「</samp></strong></p>
 <p align="center">
   <samp>
