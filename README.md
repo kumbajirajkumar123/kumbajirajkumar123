@@ -2,6 +2,19 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%27m%20Raj%20Kumbaji&fontSize=90)
 
+<p align="left"><strong><samp>「</samp></strong></p>
+<p align="center">
+  <samp>
+    
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&center=true&vCenter=true&random=true&width=435&lines=I+`m+a+Frontend+Developer">
+
+    
+     
+  </samp>
+  <br>
+</p>
+<p align="right"><strong><samp>」</samp></strong></p>
+
 <h2> 🚀 &nbsp;Skills & Expertise</h2>
 
 
@@ -27,18 +40,7 @@ const MySkillSet = {
 
 </div>
 
-<p align="left"><strong><samp>「</samp></strong></p>
-<p align="center">
-  <samp>
-    
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&center=true&vCenter=true&random=true&width=435&lines=I+`m+Frontend+Developer">
 
-    
-     
-  </samp>
-  <br>
-</p>
-<p align="right"><strong><samp>」</samp></strong></p>
 
 
 
