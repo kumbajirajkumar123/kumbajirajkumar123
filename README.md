@@ -4,9 +4,9 @@
 
 ```yaml
 const MySkillSet = {
-  tools: ["ReactJS", "TailwindCSS", "MaterialUI", "Redux", "NodeJS"],
-  languages: ["Javascript", "HTML", "CSS", "Python"],
-  teamTools: ["Github", "Discord", "Trello"],
+  tools: ["ReactJS", "NextJS", "TailwindCSS", "MaterialUI","Redux-toolkit", "Redux", "NodeJS"],
+  languages: ["Javascript", "HTML", "CSS", "Java"],
+  teamTools: ["Github", "Discord", "Jira"],
 }
 ```
 
