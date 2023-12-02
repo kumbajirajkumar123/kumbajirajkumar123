@@ -5,10 +5,10 @@
 ```yaml
 const MySkillSet = {
  
-    frontend: ["ReactJS", "NextJS", "TailwindCSS", "MaterialUI", "Redux-toolkit", "Redux"],
-    backend: ["NodeJS", PostgreSQL],
-    tools: ["Github", "Discord", "Jira"],
-    languages: ["Javascript", "HTML", "CSS", "Java"],
+    frontend: [`ReactJS`, `NextJS`, `TailwindCSS`, `MaterialUI`, `Redux Toolkit`, `Redux`],
+    backend: [`NodeJS`, `PostgreSQL`],
+    tools: [`Github`, `Discord`, `Jira`],
+    languages: [`Javascript`, `HTML`, `CSS`, `Java`],
 };
 
 ```
