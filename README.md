@@ -17,7 +17,7 @@ const MySkillSet = {
 ```
 
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex;  align-items: center;">
 
  ![RajKumbaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumbajirajkumar123&show_icons=true&theme=radical)
 
