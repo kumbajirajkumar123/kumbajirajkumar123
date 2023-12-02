@@ -2,8 +2,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%27m%20Raj%20Kumbaji&fontSize=90)
 
-
-
 <p align="left"><strong><samp>「</samp></strong></p>
 <p align="center">
   <samp>
@@ -13,11 +11,11 @@
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<details open>
+
 
   <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=kumbajirajkumar123" width="600" /></a>
 
-</details>
+
 
 <h2> 🚀 &nbsp;Skills & Expertise</h2>
 
