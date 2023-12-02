@@ -29,20 +29,13 @@ const MySkillSet = {
 
 <p align="left"><strong><samp>「</samp></strong></p>
 <p align="center">
-  <samp><br>
-    <b>
-      Hello There
-      <br>
-      I'm PsyNyde, a Student, and Linux enthusiast.
-    </b>
-    <br>
+  <samp>
+    
     <img
       src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1000&color=EE5396&center=true&vCenter=true&random=true&width=435&lines=I+`m+Frontend+Developer">
-      <br>
-      <b>
-        ~ Wahid Islam Linad ~
-      </b>
-      <br>
+
+    
+     
   </samp>
   <br>
 </p>
