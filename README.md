@@ -11,6 +11,8 @@
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
+- 🌱 I’m currently learning NodeJS & PostgreSQL
+- 📫 How to reach me: rajkumbaji4@gmail.com
 
 <details close>
   <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=kumbajirajkumar123" width="600" /></a>
@@ -22,7 +24,6 @@
 
 ```yaml
 const MySkillSet = {
- 
     frontend: [`ReactJS`, `NextJS`, `TailwindCSS`, `MaterialUI`, `Redux Toolkit`, `Redux`],
     backend: [`NodeJS`, `PostgreSQL`],
     tools: [`Github`, `Discord`, `Jira`],
@@ -40,7 +41,6 @@ const MySkillSet = {
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbajirajkumar123&size_weight=0.5&count_weight=0.5)
 
 </div>
-
 
 
 
